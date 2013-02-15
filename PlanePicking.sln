@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanePicking", "PlanePicking\PlanePicking\PlanePicking.csproj", "{3079279F-2368-419C-93B1-D6A98E68B246}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "PlanePickingContent", "PlanePicking\PlanePickingContent\PlanePickingContent.contentproj", "{50D65DDB-61F9-4DAC-A479-0A59ADB75FA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3079279F-2368-419C-93B1-D6A98E68B246}.Debug|x86.ActiveCfg = Debug|x86
+		{3079279F-2368-419C-93B1-D6A98E68B246}.Debug|x86.Build.0 = Debug|x86
+		{3079279F-2368-419C-93B1-D6A98E68B246}.Release|x86.ActiveCfg = Release|x86
+		{3079279F-2368-419C-93B1-D6A98E68B246}.Release|x86.Build.0 = Release|x86
+		{50D65DDB-61F9-4DAC-A479-0A59ADB75FA7}.Debug|x86.ActiveCfg = Debug|x86
+		{50D65DDB-61F9-4DAC-A479-0A59ADB75FA7}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
